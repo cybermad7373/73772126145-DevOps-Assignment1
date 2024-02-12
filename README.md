@@ -1,4 +1,4 @@
-#WIKI PAGE IS CREATED FOR THE DEVOPS ASSIGNMENT! (click [here](https://github.com/cybermad7373/73772126145-DevOps-Assignment1/wiki) )
+# WIKI PAGE IS CREATED FOR THE DEVOPS ASSIGNMENT! (click [here](https://github.com/cybermad7373/73772126145-DevOps-Assignment1/wiki) )
 # Git Operations Demonstration
 
 This repository demonstrates various Git operations using both local and remote (GitHub) repositories. Screenshots of the demonstration are not provided here, but you can follow the instructions to perform these operations on your local and remote repositories.
